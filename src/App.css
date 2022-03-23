@@ -15,13 +15,19 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /* min-height: 100vh; */
+  height: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-body {
+  overflow-y: auto;
+  height: 100%;
 }
 
 .App-link {
@@ -35,4 +41,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Title {
+  font-size: 25px;
+  font-weight: 200;
+  text-align: center;
 }
