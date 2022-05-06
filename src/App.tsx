@@ -1,24 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import AchievementsComponent from './Components/Achievements';
+import Bottom from './Components/Bottom';
+import SecondInfoComponent from './Components/Education';
+import MainInfoComponent from './Components/Information';
+import TimelineComponent from './Components/Timeline';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Marcelo Pérez Jodal
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
+      <div className='App-body'>
+        <MainInfoComponent />
+        <SecondInfoComponent />
+        <TimelineComponent />
+        <AchievementsComponent />
+
+      </div>
+      <Bottom />
     </div>
   );
 }
