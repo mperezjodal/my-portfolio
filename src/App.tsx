@@ -13,13 +13,14 @@ function App() {
         <p>
           Marcelo Pérez Jodal
         </p>
-        
+
       </header>
       <div className='App-body'>
         <MainInfoComponent />
         <SecondInfoComponent />
         <TimelineComponent />
         <AchievementsComponent />
+
       </div>
       <Bottom />
     </div>

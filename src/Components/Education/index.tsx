@@ -8,16 +8,16 @@ function SecondInfoComponent() {
                 Education
             </p>
             <p>
-                <strong>Systems Engineering</strong> (<i>2019 through 2023</i>) - Universidad ORT Uruguay<br /> 
+                <strong><a href="https://fi.ort.edu.uy/ingenieria-en-sistemas" target="_blank">Systems Engineering</a></strong> (<i>2019 through 2023</i>) - Universidad ORT Uruguay<br /> 
                 <br /> 
-                Finishing the 5 year graduate degree in Systems Engineering with a full scholarship awarded for the first place in the Uruguayan Mathematical Olympiad.
-                Grade average: 93%, scholarship available here.
+                I'm currently finishing the 5 year graduate degree in Systems Engineering with a full scholarship awarded for the first place in the Uruguayan Mathematical Olympiad.
+                Grade average: 92%, scholarship  available <a href="https://drive.google.com/file/d/1MG8yrrOKGgWv7fRpl6lMQjim82-2A-l_/view?usp=sharing">here</a>.
             </p>
             <br /> 
             <p>
-                <strong>BA in Philosophy </strong> (<i>2019 through 2020</i>) - Univerdidad de la República<br /> 
+                <strong><a href="https://www.fhuce.edu.uy/index.php/ensenanza/licenciaturas/licenciatura-en-filosofia" target="_blank">BA in Philosophy</a></strong> (<i>2019 through 2020</i>) - Univerdidad de la República<br /> 
                 <br /> 
-                Completed one third of this degree's courses.
+                Completed one third of this degree's courses. Scholarship <a href="https://drive.google.com/file/d/1fVrB1g8WBe0604VaLCB54IcJlB10dlm4/view?usp=sharing" target="_blank">here</a>.
             </p>
         </div>
     );

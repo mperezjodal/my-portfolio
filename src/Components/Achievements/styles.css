@@ -1,11 +1,12 @@
 .AchievementsComponent {
     padding-top: 50px;
-    padding-bottom: 80px;
+    padding-bottom: 180px;
     padding-right: 15%;
     padding-left: 15%;
-    max-width: 800px;
-    font-size: 16px;
+    /* max-width: 800px; */
+    font-size: 20px;
     text-align: left;
+
 }
 
 .Subtitle {

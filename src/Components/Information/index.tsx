@@ -4,9 +4,7 @@ import '../../App.css';
 function MainInfoComponent() {
     return (
         <div className="MainInfoComponent">
-            <p className="Title">
-                Me
-            </p>
+
             <p>
                 My passions are: ideas, technology, literature and people.
                 My dream is to help create new and inspiring innovations.
