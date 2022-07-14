@@ -11,7 +11,7 @@ function SecondInfoComponent() {
                 <strong><a href="https://fi.ort.edu.uy/ingenieria-en-sistemas" target="_blank">Systems Engineering</a></strong> (<i>2019 through 2023</i>) - Universidad ORT Uruguay<br /> 
                 <br /> 
                 I'm currently finishing the 5 year graduate degree in Systems Engineering with a full scholarship awarded for the first place in the Uruguayan Mathematical Olympiad.
-                Grade average: 92%, scholarship  available <a href="https://drive.google.com/file/d/1MG8yrrOKGgWv7fRpl6lMQjim82-2A-l_/view?usp=sharing" target="_blank">here</a>.
+                Grade average: 93% (4.0 GPA), scholarship  available <a href="https://drive.google.com/file/d/1MG8yrrOKGgWv7fRpl6lMQjim82-2A-l_/view?usp=sharing" target="_blank">here</a>.
             </p>
             <br /> 
             <p>
