@@ -10,10 +10,10 @@ function TimelineComponent() {
       </p>
       <Timeline active={4} bulletSize={24} lineWidth={2}>
 
-        <Timeline.Item title="R&D - Digital Sense">
+        {/* <Timeline.Item title="R&D - Digital Sense">
           <Text color="dimmed" size="md"><a href="https://www.digitalsense.ai" target="_blank"><Text variant="link" size="md" component="span">Digital Sense</Text></a> is a leading Computer Vision and Machine Learning R&D studio.</Text>
           <Text size="sm" mt={4}>2022 - Present</Text>
-        </Timeline.Item>
+        </Timeline.Item> */}
 
         <Timeline.Item title="Software Engineer I - TangoCode">
           <Text color="dimmed" size="md">Started as a Junior Software Engineer Intern and raised to Software Engineer I in <a href="https://tangocode.com" target="_blank"><Text variant="link" size="md" component="span">TangoCode</Text></a>.</Text>
