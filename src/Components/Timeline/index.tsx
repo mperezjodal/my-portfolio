@@ -27,14 +27,14 @@ function TimelineComponent() {
           <Text size="sm" mt={4}>2019 - Present</Text>
         </Timeline.Item>
 
+        <Timeline.Item title="Mathematical Olympiad Seminarist">
+          <Text color="dimmed" size="md">Planned and lectured Mathematical Olympiad Seminaries in <a href="https://fi.ort.edu.uy/78235/33" target="_blank"><Text variant="link" size="md" component="span">Universidad ORT</Text></a>, Universidad de Montevideo, Universidad de la República and many public and private Schools, including weekly workshops in PREU High School for the whole year of 2019.</Text>
+          <Text size="sm" mt={4}>2019 - PRESENT</Text>
+        </Timeline.Item>
+
         <Timeline.Item title="Adjunct Professor - ORT University">
           <Text color="dimmed" size="md">Adjunct proffesor in the course of Discrete Mathematics in Universidad ORT Uruguay.</Text>
           <Text size="sm" mt={4}>2020</Text>
-        </Timeline.Item>
-
-        <Timeline.Item title="Mathematical Olympiad Lecturer">
-          <Text color="dimmed" size="md">Planned and lectured Mathematical Olimpiad Seminaries in <a href="https://fi.ort.edu.uy/78235/33" target="_blank"><Text variant="link" size="md" component="span">Universidad ORT</Text></a>, Universidad de Montevideo, Universidad de la República and many public and private Schools, including weekly workshops in PREU High School for the whole year of 2019.</Text>
-          <Text size="sm" mt={4}>2019 - 2020</Text>
         </Timeline.Item>
 
       </Timeline>
