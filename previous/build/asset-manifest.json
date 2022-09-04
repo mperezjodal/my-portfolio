@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.221f2f4f.css",
+    "main.js": "/my-portfolio/static/js/main.3493050a.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/DALLE.png": "/my-portfolio/static/media/DALLE.29d0633e9c8b9a0a40a7.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.221f2f4f.css.map": "/my-portfolio/static/css/main.221f2f4f.css.map",
+    "main.3493050a.js.map": "/my-portfolio/static/js/main.3493050a.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221f2f4f.css",
+    "static/js/main.3493050a.js"
+  ]
+}
